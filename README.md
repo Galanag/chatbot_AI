@@ -1,4 +1,4 @@
-# ChatBot for Website homepages
+# ChatBot for Website homepages - Support Image, files, and voice
 
 ## Build your business every time 24/7/365
 
